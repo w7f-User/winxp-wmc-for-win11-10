@@ -40,6 +40,13 @@ After doing the process, WMC should start and work.
 
 <img width="1562" height="800" alt="Screenshot 2026-04-13 193027" src="https://github.com/user-attachments/assets/fd7dedbf-5621-462e-87fb-9540e27dec4b" />
 
+## IF IT DOES NOT WORK
+
+If it looks like this:
+
+<img width="409" height="388" alt="image" src="https://github.com/user-attachments/assets/69afb620-8159-43bd-a116-c3dfd6402dbf" />
+
+Then it means that WMC cannot run on your computer. We can't do anything right now.
 
 You've reached the end of this site.
 
