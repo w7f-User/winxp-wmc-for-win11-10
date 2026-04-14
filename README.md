@@ -48,5 +48,10 @@ If it looks like this:
 
 Then it means that WMC cannot run on your computer. We can't do anything right now.
 
+You can try to run it as administrator and important: INGNORE THIS ERROR (DON'T CLICK ANYTHING! WMC works)
+
+<img width="949" height="725" alt="image" src="https://github.com/user-attachments/assets/90595888-6833-405d-bf97-f7e6e399f67a" />
+
+
 You've reached the end of this site.
 
