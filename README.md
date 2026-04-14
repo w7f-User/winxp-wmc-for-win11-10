@@ -25,7 +25,7 @@ You can download the ZIP in the releases tab or from [here](https://github.com/w
 
 **3.** Download and Install .NET Framework 1.1 from [this](https://www.majorgeeks.com/files/details/microsoft_net_framework_redistributable_11.html) link.
 
-**4.** Download ans Install .Net Framework 3.5 from optional features. (Note: if downloading fails, download the included .reg file to fix it, after importing, restart.)
+**4.** Download ans Install .NET Framework 3.5 from optional features. (Note: if downloading fails, download the included .reg file to fix it, after importing, restart.)
 
 **5.** Open the folder, and double click ehshell.exe.
 
