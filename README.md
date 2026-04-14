@@ -14,6 +14,8 @@ You can easily run the Windows Media Center from 2005 with this pack on modern W
 
 Some files are from the ehome folder from Windows XP Media Center Edition.
 
+You can download the ZIP in the releases tab or from [here](https://github.com/w7f-User/winxp-wmc-for-win11-10/releases).
+
 
 ## INSTALLATION
 
