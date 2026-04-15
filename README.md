@@ -46,9 +46,7 @@ If it looks like this:
 
 <img width="409" height="388" alt="image" src="https://github.com/user-attachments/assets/69afb620-8159-43bd-a116-c3dfd6402dbf" />
 
-Then it means that WMC cannot run on your computer. We can't do anything right now.
-
-You can try to run it as administrator and important: INGNORE THIS ERROR (DON'T CLICK ANYTHING! WMC works)
+Then you can try to run it as administrator and important: INGNORE THIS ERROR (DON'T CLICK ANYTHING! If you can click inside WMC, ignore the error)
 
 <img width="949" height="725" alt="image" src="https://github.com/user-attachments/assets/90595888-6833-405d-bf97-f7e6e399f67a" />
 
