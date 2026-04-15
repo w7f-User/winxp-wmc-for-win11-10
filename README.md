@@ -46,7 +46,7 @@ If it looks like this:
 
 <img width="409" height="388" alt="image" src="https://github.com/user-attachments/assets/69afb620-8159-43bd-a116-c3dfd6402dbf" />
 
-Then you can try to run it as administrator and important: INGNORE THIS ERROR (DON'T CLICK ANYTHING! If you can click inside WMC, ignore the error)
+Then you can try to run it as administrator and important: INGNORE THIS ERROR! If you can click inside WMC, the don't click OK or close the window, because if you do it, WMC will crash again.
 
 <img width="949" height="725" alt="image" src="https://github.com/user-attachments/assets/90595888-6833-405d-bf97-f7e6e399f67a" />
 
